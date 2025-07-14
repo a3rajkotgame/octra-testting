@@ -24,3 +24,4 @@ Go to https://faucet.octra.network/
 
 Paste Wallet address & claim faucet
 
+Join Discord 
