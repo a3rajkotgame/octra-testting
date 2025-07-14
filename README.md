@@ -18,3 +18,5 @@ bun start
 
 click the “PORTS” tab open link under forwarded address in browser
 
+Wallet Generated, Back up private key
+
