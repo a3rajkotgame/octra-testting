@@ -22,3 +22,5 @@ Wallet Generated, Back up private key
 
 Go to https://faucet.octra.network/
 
+Paste Wallet address & claim faucet
+
