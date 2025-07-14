@@ -20,3 +20,5 @@ click the “PORTS” tab open link under forwarded address in browser
 
 Wallet Generated, Back up private key
 
+Go to https://faucet.octra.network/
+
