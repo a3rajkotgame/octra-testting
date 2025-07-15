@@ -1,21 +1,29 @@
 # octra-testting
 octra testting
+---------------------------
 
-Step 1:
+## Step 1:
+````bash
 curl -fsSL https://bun.sh/install | bash
 source ~/.bashrc
 bun --version
-
-Step 2:
+````
+-----------------------
+##  Step 2:
+````bash
 bun install
+````
+-----------------------------
 
-Step 3:
+## Step 3:
+````
 bun run build
+````
 
-
-Step 4:
+## Step 4:
+```
 bun start
-
+```
 click the “PORTS” tab open link under forwarded address in browser
 
 Wallet Generated, Back up private key
